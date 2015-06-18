@@ -1,0 +1,13 @@
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\bin\Debug\DigitalFairmangementAPP.exe.config
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\bin\Debug\DigitalFairmangementAPP.exe
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\bin\Debug\DigitalFairmangementAPP.pdb
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\obj\Debug\DigitalFairmangementAPP.csprojResolveAssemblyReference.cache
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\obj\Debug\DigitalFairmangementAPP.UI.Form1.resources
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\obj\Debug\DigitalFairmangementAPP.Properties.Resources.resources
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\obj\Debug\DigitalFairmangementAPP.csproj.GenerateResource.Cache
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\obj\Debug\DigitalFairmangementAPP.exe
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\obj\Debug\DigitalFairmangementAPP.pdb
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\obj\Debug\DigitalFairmangementAPP.UI.VisitorDetails.resources
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\obj\Debug\DigitalFairmangementAPP.UI.VistorEntryUI.resources
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\obj\Debug\DigitalFairmangementAPP.UI.VistorNumberUI.resources
+c:\users\mithun\documents\visual studio 2013\Projects\DigitalFairmangementAPP\DigitalFairmangementAPP\obj\Debug\DigitalFairmangementAPP.UI.ZoneTypeEntry.resources
